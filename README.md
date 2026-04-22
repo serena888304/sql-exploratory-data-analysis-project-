@@ -4,16 +4,19 @@ An Exploratory Data Analysis (EDA) transforms raw retail data into actionable in
 ---
 
 📊 **Exploratory Data Analysis (EDA) on Retail Data**
+
 An Exploratory Data Analysis (EDA) project that transforms raw retail data into actionable insights through data profiling, magnitude analysis, and ranking.
 
 ---
 
 🎯 **Project Objective**
+
 The goal of this project is to perform a foundational data profiling and exploration exercise using MySQL. By following industry-standard analytical workflows, this project uncovers the underlying patterns, date ranges, and performance metrics within a retail database to establish a deep understanding of the dataset before building advanced reports.
 
 ---
 
 🛠️ **Tools & Techniques Used**
+
 SQL Dialect: MySQL
 
 Techniques: Basic Aggregations (SUM, AVG, COUNT), GROUP BY logic, Sorting, and Date/Time Functions.
@@ -21,6 +24,7 @@ Techniques: Basic Aggregations (SUM, AVG, COUNT), GROUP BY logic, Sorting, and D
 ---
 
 🗺️ **Analytical Methodology**
+
 This project follows a structured, real-world data analysis roadmap to explore the dataset step-by-step:
 
 Database Exploration: Inspecting tables, columns, and data types to understand the underlying schema and structure.
@@ -35,6 +39,7 @@ Ranking Analysis: Identifying the top performers across the business to see what
 
 ---
 **💡 Key Business Insights Discovered**
+
 Based on the Exploratory Data Analysis, here are the core findings about the business's performance, customer base, and product catalog:
 
 High-Level Scale & Volume: The business operates at a significant scale, processing over 27,000 orders and selling exactly 60,423 items. This was achieved across a base of 18,484 unique customers, generating a total lifetime revenue of $29.3 Million.
@@ -48,6 +53,7 @@ The United States is by far the most valuable market, accounting for 40% of all 
 ---
 
 💻 **How to Use This Repository**
+
 The scripts file contains all the SQL scripts categorized by the methodology steps above.
 
 Ensure you have a MySQL environment set up with the retail database schema imported.
@@ -57,4 +63,5 @@ Run the queries sequentially to follow the data exploration journey.
 ---
 
 **Acknowledgments:**
+
 A huge thank you to Data with Baraa for the incredible tutorial series and for providing such high-quality, real-life materials to learn from. 
