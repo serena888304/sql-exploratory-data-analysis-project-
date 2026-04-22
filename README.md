@@ -34,7 +34,7 @@ Magnitude Analysis: Combining dimensions and measures to understand distribution
 Ranking Analysis: Identifying the top performers across the business to see what drives the most value (e.g., Top 10 Customers, Top 5 Products, Top Categories).
 
 ---
-💡 Key Business Insights Discovered
+**💡 Key Business Insights Discovered**
 Based on the Exploratory Data Analysis, here are the core findings about the business's performance, customer base, and product catalog:
 
 High-Level Scale & Volume: The business operates at a significant scale, processing over 27,000 orders and selling exactly 60,423 items. This was achieved across a base of 18,484 unique customers, generating a total lifetime revenue of $29.3 Million.
