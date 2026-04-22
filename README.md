@@ -42,5 +42,7 @@ Ensure you have a MySQL environment set up with the retail database schema impor
 
 Run the queries sequentially to follow the data exploration journey.
 
+---
+
 **Acknowledgments:**
 A huge thank you to Data with Baraa for the incredible tutorial series and for providing such high-quality, real-life materials to learn from. 
