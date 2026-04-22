@@ -1,20 +1,24 @@
 # sql-exploratory-data-analysis-project
 An Exploratory Data Analysis (EDA) transforms raw retail data into actionable insights through customer segmentation, product performance tracking, and advanced SQL aggregations.
 
+---
 
 📊 **Exploratory Data Analysis (EDA) on Retail Data**
 An Exploratory Data Analysis (EDA) project that transforms raw retail data into actionable insights through data profiling, magnitude analysis, and ranking.
 
+---
 
 🎯 **Project Objective**
 The goal of this project is to perform a foundational data profiling and exploration exercise using MySQL. By following industry-standard analytical workflows, this project uncovers the underlying patterns, date ranges, and performance metrics within a retail database to establish a deep understanding of the dataset before building advanced reports.
 
+---
 
 🛠️ **Tools & Techniques Used**
 SQL Dialect: MySQL
 
 Techniques: Basic Aggregations (SUM, AVG, COUNT), GROUP BY logic, Sorting, and Date/Time Functions.
 
+---
 
 🗺️ **Analytical Methodology**
 This project follows a structured, real-world data analysis roadmap to explore the dataset step-by-step:
@@ -29,6 +33,7 @@ Magnitude Analysis: Combining dimensions and measures to understand distribution
 
 Ranking Analysis: Identifying the top performers across the business to see what drives the most value (e.g., Top 10 Customers, Top 5 Products, Top Categories).
 
+---
 
 💻 **How to Use This Repository**
 The scripts file contains all the SQL scripts categorized by the methodology steps above.
