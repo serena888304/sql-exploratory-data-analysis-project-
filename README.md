@@ -34,6 +34,18 @@ Magnitude Analysis: Combining dimensions and measures to understand distribution
 Ranking Analysis: Identifying the top performers across the business to see what drives the most value (e.g., Top 10 Customers, Top 5 Products, Top Categories).
 
 ---
+💡 Key Business Insights Discovered
+Based on the Exploratory Data Analysis, here are the core findings about the business's performance, customer base, and product catalog:
+
+High-Level Scale & Volume: The business operates at a significant scale, processing over 27,000 orders and selling exactly 60,423 items. This was achieved across a base of 18,484 unique customers, generating a total lifetime revenue of $29.3 Million.
+
+The "Bike-Heavy" Revenue Engine:
+While the company sells Accessories and Clothing, Bikes are the absolute core of the business. Bikes account for over 96% of total revenue ($28.3M out of $29.3M). Accessories and Clothing combine for barely $1M in revenue, indicating they act as supplementary add-ons rather than primary profit drivers.
+
+Market Geography (The US Dominance):
+The United States is by far the most valuable market, accounting for 40% of all customers (7,482) and driving the highest volume of sold items (20,481 items). Australia is the strong runner-up, bringing in nearly half the volume of the US, but still significantly outperforming the UK and European markets.
+
+---
 
 💻 **How to Use This Repository**
 The scripts file contains all the SQL scripts categorized by the methodology steps above.
