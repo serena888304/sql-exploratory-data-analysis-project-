@@ -1,5 +1,7 @@
 # sql-exploratory-data-analysis-project
-An Exploratory Data Analysis (EDA) transforms raw retail data into actionable insights through customer segmentation, product performance tracking, and advanced SQL aggregations.
+A foundational MySQL exploratory data analysis project that profiles a retail dataset and summarizes key business dimensions, including customers, products, orders, revenue, date ranges, and regional performance.
+
+This project represents the first stage of a two-part SQL portfolio project. The objective is to understand the dataset structure, business scale, product mix, customer distribution, and high-level performance patterns before moving into advanced SQL analytics and reporting-layer development.
 
 ---
 
@@ -9,9 +11,27 @@ An Exploratory Data Analysis (EDA) project that transforms raw retail data into 
 
 ---
 
-🎯 **Project Objective**
+🎯 **Project Background**
 
-The goal of this project is to perform a foundational data profiling and exploration exercise using MySQL. By following industry-standard analytical workflows, this project uncovers the underlying patterns, date ranges, and performance metrics within a retail database to establish a deep understanding of the dataset before building advanced reports.
+This project uses a simulated retail dataset representing a global bicycle and cycling gear business.
+
+The company processes a large volume of historical sales transactions across multiple customers, products, and regions. This project performs foundational data exploration to understand the structure, scale, and key business patterns within the dataset before deeper analytical modeling and reporting-layer development.
+
+The analysis focuses on the following foundational areas:
+
+- **Database Structure:** Understanding the tables, columns, relationships, and available fields in the retail database.
+- **Business Scale:** Measuring total revenue, total orders, total items sold, total customers, and total products.
+- **Product Overview:** Identifying major product categories and top-selling products based on revenue and volume.
+- **Customer Overview:** Exploring customer counts, customer distribution, and top customers by revenue.
+- **Regional Overview:** Comparing customer base size, sales volume, and item sales across major geographic markets.
+
+---
+
+🛠️ **Data Structure**
+
+The database consists of three relational tables structured in a Star Schema. The core sales fact table captures over **60,400 item-level transaction records** (spanning 27,000+ distinct orders), supported by comprehensive customer and product dimension tables.
+
+<img width="671" height="321" alt="ERD" src="https://github.com/user-attachments/assets/8312d358-630b-47a1-ba30-645d99ede03f" />
 
 ---
 
